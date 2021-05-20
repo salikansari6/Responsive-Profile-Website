@@ -10,6 +10,10 @@ body {
 #logo {
   color: #86c232;
 }
+.photo{
+filter:drop-shadow(8px 8px 10px black);
+}
+
 
 .navbar {
   background: #6b6e70;
